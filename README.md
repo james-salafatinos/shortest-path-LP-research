@@ -3,7 +3,7 @@ The Shortest Path Problem: A linear programming comparison to graph-based Algori
 
 Tested the viability of Gurobi, a commercial-licensed LP engine, and puLP, an open-source python LP package. We compare the primal and the dual to the graph algorithm benchmarks of A* and Dijkstra for the case of a directed, arbitrarily weighted graph.
 
-**Please use the jupyter notebook titled: "final_notebook.ipynb" within /final_code**
+## Please use the jupyter notebook titled: "final_notebook.ipynb" within /final_code**
 
 
 # Results
